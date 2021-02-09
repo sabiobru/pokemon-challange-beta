@@ -1,4 +1,6 @@
-Esse projeto tem como base Listar e Detalhar os Pokémons.
+Esse projeto tem como objetivo Listar e Detalhar os Pokémons.
+
+Desenvolvido em Angular 9.3.1.
 
 DEMO: http://bsabio-001-site1.btempurl.com/#
 
