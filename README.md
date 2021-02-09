@@ -1,3 +1,5 @@
+Esse projeto tem como base Listar e Detalhar os Pokémons.
+
 DEMO: http://bsabio-001-site1.btempurl.com/#
 
 - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
