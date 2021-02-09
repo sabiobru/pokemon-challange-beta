@@ -4,7 +4,7 @@ Esse projeto tem como objetivo Listar e Detalhar os Pokémons.
 
 - Consumo de API REST Full: https://pokeapi.co/
 
-DEMO: http://bsabio-001-site1.btempurl.com/#
+- DEMO: http://bsabio-001-site1.btempurl.com/#
 
 - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
 - [Recursos Externos](#recursos-externos)
