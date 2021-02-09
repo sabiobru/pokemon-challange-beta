@@ -12,12 +12,10 @@ Esse projeto tem como objetivo Listar e Detalhar os Pokémons.
 # Bibliotecas Utilizadas
 
   + Nome: Ngx-Bootstrap
-  + CLI: npm install ngx-bootstrap --save
-  + Documentação: https://valor-software.com/ngx-bootstrap/#/documentation#getting-started
+    + Documentação: https://valor-software.com/ngx-bootstrap/#/documentation#getting-started
 
   + Nome: Bootstrap
-  + CLI: npm install bootstrap
-  + Documentação: https://getbootstrap.com
+   + Documentação: https://getbootstrap.com
   
 # Recursos Externos
 
