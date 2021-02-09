@@ -1,6 +1,8 @@
 Esse projeto tem como objetivo Listar e Detalhar os Pokémons.
 
-Desenvolvido em Angular 9.3.1.
+- Desenvolvido em Angular 9.3.1.
+
+- Consumo de API REST Full: https://pokeapi.co/
 
 DEMO: http://bsabio-001-site1.btempurl.com/#
 
